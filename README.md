@@ -3,9 +3,9 @@
 
 [![Build Status](https://travis-ci.org/pedrodiascastro/ng-bootstrap-year-calendar.svg?branch=master)](https://travis-ci.org/pedrodiascastro/ng-bootstrap-year-calendar)
 
-AngularJS version of [bootstrap-year-calendar](www.bootstrap-year-calendar.com), a fully customizable year calendar widget, for boostrap !
+AngularJS version of [bootstrap-year-calendar](www.bootstrap-year-calendar.com), a year calendar widget, for boostrap !
 
-This is mostly cool because you simply include it in your app, and it works.  There's no complicated setup.
+This is mostly cool because you there's no complicated setup.
 
 ![alt tag](/assets/img/preview.jpg)
 
