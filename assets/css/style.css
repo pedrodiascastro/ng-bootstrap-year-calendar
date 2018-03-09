@@ -1,0 +1,30 @@
+.cal-unico-today{
+    border:         2px solid #D8D8D8;
+    background:     white;
+    font-weight:    bold;
+    font-size:      15px;
+    color:          #000;
+}
+
+.calendar table.month th.day-header {
+font-size: 12px;
+}
+
+.bg-light-blue-active{
+    background-color: #438ebd !important;
+    color: #f8f8f8;
+    border-color: #5a8db6;
+}
+
+.repeated-item.ng-enter, .repeated-item.ng-move {
+-webkit-transition:0.5s linear all;
+-moz-transition:0.5s linear all;
+-o-transition:0.5s linear all;
+transition:0.5s linear all;
+opacity:0;
+}
+
+.repeated-item.ng-enter.ng-enter-active,
+.repeated-item.ng-move.ng-move-active {
+opacity:1;
+}
