@@ -4,7 +4,7 @@
   "description": "AngularJS version of bootstrap-year-calendar",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint src/ng-bootstrap-year-calendar.js"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,7 @@
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-sftp-deploy": "^0.2.5"
+    "grunt-sftp-deploy": "^0.2.5",
+    "jshint": "^2.9.5"
   }
 }
