@@ -437,7 +437,7 @@
                         // is outside of angular
                         if(!mw){
                             $scope.$digest();
-                        };
+                        }
                     }
                     
                     setGrid(188);
